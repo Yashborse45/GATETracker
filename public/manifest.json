@@ -1,0 +1,22 @@
+
+{
+  "short_name": "GATE Tracker",
+  "name": "GATE Preparation Tracker",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a202c",
+  "background_color": "#1a202c",
+  "description": "A PWA to track your GATE CS/IT exam preparation."
+}

@@ -1,0 +1,5 @@
+{
+  "name": "GATE Tracker",
+  "description": "A Progressive Web App to help users prepare for GATE (CS/IT) and other exams by tracking syllabus coverage, setting goals, creating personalized study plans, and monitoring daily progress.",
+  "requestFramePermissions": []
+}
